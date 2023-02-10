@@ -8,7 +8,7 @@
     "url": "https://github.com/Snyk/shallow-goof"
   },
   "dependencies": {
-    "lodash": "4.17.19",
+    "lodash": "4.17.21",
     "debug": "4.3.4"
   }
 }
